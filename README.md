@@ -1,0 +1,2 @@
+# temaplate-repository
+Репозиторий шаблон
